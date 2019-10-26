@@ -1,0 +1,2 @@
+[01-Mar-2018 06:24:49 America/Chicago] PHP Fatal error:  Call to a member function save() on null in /home/asapdeliveries/public_html/application/controllers/Home.php on line 36
+[01-Mar-2018 06:26:10 America/Chicago] PHP Fatal error:  Call to a member function save() on null in /home/asapdeliveries/public_html/application/controllers/Home.php on line 36
